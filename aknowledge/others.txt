@@ -1,0 +1,12 @@
+Pipe = map data
+
+binding expression
+
+property binding [hidden]
+    + for html property 
+    + for component property 
+
+event binding (click)
+
+2way binding: [()]
+

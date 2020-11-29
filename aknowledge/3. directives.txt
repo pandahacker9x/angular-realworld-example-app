@@ -1,0 +1,5 @@
+[ngClass]="class1 class2 class3" --> add class1, 2, 3 for the tag applied
+
+[ngClass]="["class1", "class2"]"
+
+[ngClass]="{'class1': true/false}"// if true -> add

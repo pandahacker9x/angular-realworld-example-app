@@ -1,0 +1,14 @@
+<base href="/"> in main index.html file
+    to tell angular app that base from app folder
+
+wildcard route:  --> active if there's not route maching
+    { '**', 'NotFoundComponent' }
+ 
+Select route by First-match wins strategy 
+
+Others concepts: 
+    Sending information from a route to another
+    Redirect 
+    Nested route
+
+Resolver in routing: preload data
